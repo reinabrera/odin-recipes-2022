@@ -1,0 +1,36 @@
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#site-title {
+    font-size: 50px;
+}
+#recipe-title, #site-title {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+.sub-header {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.description {
+    margin-left: 20px;
+}
+.ingredients li, .steps li, .description p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+
+}
+
+div.finished-product {
+    
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+div.finished-product .img-finish-product {
+    height: 300px;
+    width: auto;
+}
